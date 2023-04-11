@@ -1,0 +1,10 @@
+FDG Week #7
+
+1. Arahkan untuk tugas scraping website bstation (https://www.bilibili.tv/id/anime)
+2. Yang di lakukan scraping adalah title, genre dan link cover dari masing masing anime
+3. Setelah di scraping dilakukan insert hasil scraping kedalam database mongodb (nama collection bebas)
+4. Format tugas adalah file .zip project mereka dan screenshot tampilan colection ketika sudah berhasil menambahkan datanya.
+5. Waktu pengerjaan adalah 2 jam dimulai dari jam mulai weekly discussion yang dikumpulkan di classroom, untuk tugasnya sudah di set di classroom masing-masing sesuai dengan jam nya.
+6. Jika tidak ada pertanyaan selama di zoom boleh leave dan jika ada pertanyaan selama pengerjaan silahkan diskusi didalam group discord
+
+#THR2023
